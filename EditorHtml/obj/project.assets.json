@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nicholas.nogueira\\.nuget\\packages\\": {}
+    "C:\\Users\\nicholas.nogueira\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicholas.nogueira\\source\\repos\\EditorHtml\\EditorHtml.csproj",
+      "projectUniqueName": "C:\\Users\\nicholas.nogueira\\Documents\\Studying\\EditorHtml\\EditorHtml.csproj",
       "projectName": "EditorHtml",
-      "projectPath": "C:\\Users\\nicholas.nogueira\\source\\repos\\EditorHtml\\EditorHtml.csproj",
+      "projectPath": "C:\\Users\\nicholas.nogueira\\Documents\\Studying\\EditorHtml\\EditorHtml.csproj",
       "packagesPath": "C:\\Users\\nicholas.nogueira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicholas.nogueira\\source\\repos\\EditorHtml\\obj\\",
+      "outputPath": "C:\\Users\\nicholas.nogueira\\Documents\\Studying\\EditorHtml\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\nicholas.nogueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }
